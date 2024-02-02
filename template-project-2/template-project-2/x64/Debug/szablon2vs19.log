@@ -1,0 +1,26 @@
+﻿  barrel.cpp
+  game.cpp
+  ladder.cpp
+  level.cpp
+  main.cpp
+C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\level.cpp(145,15): warning C4477: „fscanf_s”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t *”
+  C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\level.cpp(145,15):
+  rozważ użycie elementu „%zd” w ciągu formatu
+  
+C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\level.cpp(146,13): warning C4477: „fscanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t *”
+  C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\level.cpp(146,13):
+  rozważ użycie elementu „%zd” w ciągu formatu
+  
+C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\level.cpp(147,13): warning C4477: „fscanf”: ciąg formatu „%d” wymaga argumentu typu „int *”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t *”
+  C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\level.cpp(147,13):
+  rozważ użycie elementu „%zd” w ciągu formatu
+  
+  platform.cpp
+  player.cpp
+  sdl_const_dest.cpp
+  sdl_draw.cpp
+C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\sdl_draw.cpp(119,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\sdl_draw.cpp(122,15): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  sdl_misc.cpp
+  Generowanie kodu...
+  szablon2vs19.vcxproj -> C:\Users\essa\Documents\Code\PP\Project2\template-project-2\template-project-2\x64\Debug\szablon2vs19.exe

@@ -1,0 +1,17 @@
+PlatformArraySize 5
+LadderArraySize 3
+BarrelArraySize 4
+
+PlayerStartingLocation 0 677
+BarrelSpawnLocation 100 100
+WinningArea 100 201 480 100
+
+Platform 0 727 42
+Platform 88 632 10
+Platform 380 601 15
+Platform 510 421 21
+Platform 100 301 20
+
+Ladder 212 631 8
+Ladder 640 420 15
+Ladder 520 300 10
