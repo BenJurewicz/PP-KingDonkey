@@ -54,9 +54,6 @@
     <ClInclude Include="sprite.hpp" />
     <ClInclude Include="winningArea.hpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="testLevel2.txt" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{16725DAB-C5AF-413E-A856-9D4B087AFD39}</ProjectGuid>

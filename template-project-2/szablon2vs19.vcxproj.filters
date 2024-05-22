@@ -36,7 +36,4 @@
     <ClInclude Include="winningArea.hpp" />
     <ClInclude Include="game.hpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="testLevel2.txt" />
-  </ItemGroup>
 </Project>
